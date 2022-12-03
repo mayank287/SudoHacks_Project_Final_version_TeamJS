@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25db8988.chunk.css",
+    "main.js": "/static/js/main.87b26318.chunk.js",
+    "main.js.map": "/static/js/main.87b26318.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc49f826.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc49f826.js.map",
+    "static/css/2.c04e441f.chunk.css": "/static/css/2.c04e441f.chunk.css",
+    "static/js/2.e6b8b0fb.chunk.js": "/static/js/2.e6b8b0fb.chunk.js",
+    "static/js/2.e6b8b0fb.chunk.js.map": "/static/js/2.e6b8b0fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a7cd9320916829a727f92ee106246a8e.js": "/precache-manifest.a7cd9320916829a727f92ee106246a8e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c04e441f.chunk.css.map": "/static/css/2.c04e441f.chunk.css.map",
+    "static/css/main.25db8988.chunk.css.map": "/static/css/main.25db8988.chunk.css.map",
+    "static/js/2.e6b8b0fb.chunk.js.LICENSE.txt": "/static/js/2.e6b8b0fb.chunk.js.LICENSE.txt",
+    "static/media/Noprofile.gif": "/static/media/Noprofile.5d35e399.gif",
+    "static/media/calendar.svg": "/static/media/calendar.c4335da9.svg",
+    "static/media/coughing_2.svg": "/static/media/coughing_2.b6dd53fd.svg",
+    "static/media/doctor (1).png": "/static/media/doctor (1).02c2292d.png",
+    "static/media/doctor4.svg": "/static/media/doctor4.0211ccbe.svg",
+    "static/media/doctor8.svg": "/static/media/doctor8.e99223a0.svg",
+    "static/media/graduation.svg": "/static/media/graduation.fda680d1.svg",
+    "static/media/mention.svg": "/static/media/mention.21ba4978.svg",
+    "static/media/newDoctor1.svg": "/static/media/newDoctor1.45a94407.svg",
+    "static/media/preloader.gif": "/static/media/preloader.f90bc471.gif",
+    "static/media/undraw_doctor_kw5l.svg": "/static/media/undraw_doctor_kw5l.4e091d0b.svg",
+    "static/media/undraw_forms_78yw.svg": "/static/media/undraw_forms_78yw.6e6a5db0.svg",
+    "static/media/undraw_medical_research_qg4d.svg": "/static/media/undraw_medical_research_qg4d.41b3f391.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc49f826.js",
+    "static/css/2.c04e441f.chunk.css",
+    "static/js/2.e6b8b0fb.chunk.js",
+    "static/css/main.25db8988.chunk.css",
+    "static/js/main.87b26318.chunk.js"
+  ]
+}
